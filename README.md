@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Hoang Anh 👋
 
-<!--
-**hoanganhxtah/hoanganhxtah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Software Engineer | Generative AI • RAG • AI Agents • Computer Vision**
 
-Here are some ideas to get you started:
+I'm an AI Engineer based in Hanoi, Vietnam, focused on building practical AI systems and production-ready AI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏦 Currently working on **AI applications, conversational AI, and agent integrations**
+- 🤖 Interested in **RAG, Agentic AI, MCP, LLM applications, and AI backend systems**
+- 👁️ Experienced with **Computer Vision, OCR, object detection/tracking, and edge AI**
+- 🎓 Graduated from **Hanoi University of Science and Technology (HUST)**
+
+## 🛠 Tech Stack
+
+**AI / LLM:** `LangChain` `LangGraph` `Dify` `RAG` `MCP` `Transformers`  
+**Backend:** `Python` `FastAPI` `TypeScript` `RabbitMQ`  
+**Data:** `PostgreSQL` `MongoDB` `Qdrant` `ChromaDB`  
+**ML / CV:** `PyTorch` `TensorFlow` `OpenCV` `BERT`  
+**Infra:** `Docker` `AWS` `Linux`
+
+## 🚀 Featured
+
+- **Super RAGentic** — Multi-agent AI assistant with LangGraph, RAG, MCP, FastAPI, Qdrant/ChromaDB, Docker and AWS
+- **Spear Phishing Email Detection** — Transformer-based NLP research using BERT-family models
+- **Face Anti-Spoofing** — Real-time face anti-spoofing with MobileNetV2 and SSD
+
+## 📫 Contact
+
+- Email: **nguyenhoanganh2820@gmail.com**
+- Location: **Hanoi, Vietnam**
