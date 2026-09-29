@@ -17,12 +17,6 @@ I'm an AI Engineer based in Hanoi, Vietnam, focused on building practical AI sys
 **ML / CV:** `PyTorch` `TensorFlow` `OpenCV` `BERT`  
 **Infra:** `Docker` `AWS` `Linux`
 
-## 🚀 Featured
-
-- **Super RAGentic** — Multi-agent AI assistant with LangGraph, RAG, MCP, FastAPI, Qdrant/ChromaDB, Docker and AWS
-- **Spear Phishing Email Detection** — Transformer-based NLP research using BERT-family models
-- **Face Anti-Spoofing** — Real-time face anti-spoofing with MobileNetV2 and SSD
-
 ## 📫 Contact
 
 - Email: **nguyenhoanganh2820@gmail.com**
